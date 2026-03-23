@@ -9,5 +9,5 @@ export default defineConfig({
     tailwindcss()
   ],
   // SOSTITUISCI CON IL NOME DEL TUO REPO SU GITHUB:
-  base: '/NOME_DEL_TUO_REPO/',
+  base: '/portfolio-3d/',
 })
